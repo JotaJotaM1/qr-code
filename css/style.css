@@ -7,6 +7,12 @@
 body {
   background-color: hsl(212, 45%, 89%);
 }
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+}
 .containerGeneral {
   display: flex;
   flex-direction: column;
@@ -47,8 +53,8 @@ p {
     margin: 8% 38.4%;
   }
 }
-@media screen and (min-width: 1440px){
-    .containerGeneral {
-        margin: 8% 39%;
-      }
+@media screen and (min-width: 1440px) {
+  .containerGeneral {
+    margin: 8% 39%;
+  }
 }
