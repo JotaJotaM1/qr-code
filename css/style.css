@@ -8,10 +8,11 @@ body {
   background-color: hsl(212, 45%, 89%);
 }
 .containerGeneral {
+    height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin: 8% 10%;
+  margin: 10% 10%;
   background-color: hsl(0, 0%, 100%);
   border-radius: 1rem;
 }
