@@ -32,12 +32,16 @@ main {
   border-radius: 1rem;
 }
 h2 {
+    font-size: 20px;
+  font-weight: 700;
   text-align: center;
-  padding: 0 20px;
+  padding: 0 27px;
   color: hsl(218, 44%, 22%);
 }
 p {
-  padding: 0 35px;
+font-size: 15px;
+  font-weight: 400;
+  padding: 0 30px;
   text-align: center;
   margin: 20px 0 40px;
   color: hsl(220, 15%, 55%);
