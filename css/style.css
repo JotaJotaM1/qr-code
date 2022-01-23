@@ -8,7 +8,6 @@ body {
   background-color: hsl(212, 45%, 89%);
 }
 .containerGeneral {
-    height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
